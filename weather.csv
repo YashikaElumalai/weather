@@ -1,0 +1,10 @@
+city,date,temperature,humidity,condition
+Chennai,2026-04-19,34,70,Sunny
+Chennai,2026-04-20,32,75,Cloudy
+Chennai,2026-04-21,31,78,Rainy
+Delhi,2026-04-19,28,60,Sunny
+Delhi,2026-04-20,30,65,Cloudy
+Mumbai,2026-04-19,30,80,Humid
+Mumbai,2026-04-20,29,85,Rainy
+Bangalore,2026-04-19,26,65,Windy
+Bangalore,2026-04-20,25,70,Cloudy
